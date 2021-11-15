@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Word_Counter</string>
+    <string name="btn_input_name">Calculate Count</string>
+    <string-array name="Counting_Options">
+        <item>Words</item>
+    <item>Chars</item>
+    </string-array>
+</resources>
